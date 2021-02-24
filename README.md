@@ -2,5 +2,10 @@
 
 Probabiility is common sense reduced to calculation.
   `Laplace  
+  
+Published in the public domain, however a generous contribution as introduced first by the generous members of Athena Scientific.
 
-Courtesy of Athena Scientific, a small publisher specializing in textbooks written by professors at the Massachusetts Institute of Technology and used in their courses.
+Albeit dated, written by the professors at the Massachusetts Institute of Technology.
+- I thank you for this artifact.
+
+- FOR INTERNAL USE AND ACADEMIC RESEARCH ONLY -
